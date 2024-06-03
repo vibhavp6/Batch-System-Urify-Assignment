@@ -13,6 +13,8 @@ CSS
 Vercel Link :
 https://batch-system-urify-assignment.vercel.app/
 
+GitHub live too : https://vibhavp6.github.io/Batch-System-Urify-Assignment/
+
 Demo:
 ![image](https://github.com/vibhavp6/Batch-System-Urify-Assignment/assets/124075000/989bc99b-b78f-4b24-88ae-154702191b13)
 
