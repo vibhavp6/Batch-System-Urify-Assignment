@@ -6,6 +6,9 @@ That's it! The landing page should now be running locally.
 
 Thank you!
 
+Created Using :
+HTML
+CSS
 
 Vercel Link :
 https://batch-system-urify-assignment.vercel.app/
